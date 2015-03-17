@@ -26,11 +26,6 @@ class HelloWorldTests: XCTestCase {
         XCTAssert(true, "pass")
     }
 
-     func testExample2() {
-        // This is an example of a functional test case.
-        XCTAssert(true, "pass")
-    }
-    
     func testPerformanceExample() {
         // This is an example of a performance test case.
         self.measureBlock() {
